@@ -35,7 +35,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                         $_SESSION["deptt_name"] = $deptt;
                         $_SESSION["user_name"] = $name;
                     
-                        header("location: /files/center.php");
+                        header("location: /Project_1_AMS/files/center.php");
                         }
                         else{
                             $showError ="Invalid Credentials in admin";
@@ -49,7 +49,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                             $_SESSION["deptt_name"] = $deptt;
                             $_SESSION["user_name"] = $name;
                         
-                            header("location: /files/HOD.php");
+                            header("location: /Project_1_AMS/files/HOD.php");
                             }
                             else{
                                 $showError ="Invalid Credentials";
@@ -62,7 +62,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                             $_SESSION["deptt_name"] = $deptt;
                             $_SESSION["user_name"] = $name;
                         
-                            header("location: /files/Home.php");
+                            header("location: /Project_1_AMS/files/Home.php");
                             }
                             else{
                                 $showError ="Invalid Credentials";
