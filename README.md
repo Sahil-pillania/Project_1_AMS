@@ -2,9 +2,9 @@
 # AMS
 # PHP, Javascript , HTML, CSS, Jquery, Ajax etc.
 ### for ID you can follow these:
-### for faculty panel: ID: rishi01@gmail.com  password: rishi123
-### for HOD panel: ID: Bhatia@gmail.com  password: bhatia@123
-### for Admin panel: ID: sahilpillania@gmail.com  password: sahil123
+##### for faculty panel: ID: rishi01@gmail.com  password: rishi123
+##### for HOD panel: ID: Bhatia@gmail.com  password: bhatia@123
+##### for Admin panel: ID: sahilpillania@gmail.com  password: sahil123
 
 ##Home page
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/80634110/163763312-bea3cae2-f20d-4fcf-8724-f7831a34b5d7.png">
